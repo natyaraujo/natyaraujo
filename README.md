@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naty araujo
 - 👀 I’m interested in programações e criar sites
 - 🌱 I’m currently learning animações
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on em
 - 📫 How to reach me natanela.vargas@escola.pr.gov.br
 
 <!---
